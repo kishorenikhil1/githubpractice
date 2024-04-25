@@ -7,8 +7,13 @@ class hospital()
 {
 	void members()
 		security=senior staff
-}
 
+}
+class cleanning()
+{
+ void cleaning staff()
+	 members=security
+}
 
 
 
