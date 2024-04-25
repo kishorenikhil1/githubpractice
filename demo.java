@@ -3,7 +3,11 @@ class codedocter()
 	void docter()
 		nurse=docterhelp()
 }
-
+class hospital()
+{
+	void members()
+		security=senior staff
+}
 
 
 
