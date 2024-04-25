@@ -1,3 +1,4 @@
+
 class Temp
 {
 	void Demo_code()
@@ -9,6 +10,20 @@ class Temp
 		s.o.print("test code")
 	}
 }
+
+class Test
+{
+	void Add()
+	{
+		c=a+b
+	}
+	void sub()
+	{
+		c=a-b()
+	}
+}
+
+
 class demo.java
 {
 	public static void main()
