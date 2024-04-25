@@ -1,3 +1,17 @@
+class codedocter()
+{
+	void docter()
+		nurse=docterhelp()
+}
+
+
+
+
+
+
+
+
+
 class Bank
 {
 	void deposite()
