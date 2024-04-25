@@ -1,3 +1,11 @@
+class Bank
+{
+	void deposite()
+		bal =bal+amount()
+
+}
+
+
 
 class Temp
 {
@@ -10,7 +18,6 @@ class Temp
 		s.o.print("test code")
 	}
 }
-
 class Test
 {
 	void Add()
