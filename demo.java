@@ -1,3 +1,14 @@
+class Bank
+{
+void deposite()
+	amount=deposite+total
+	sop=("your deposite amount")
+}
+
+
+
+
+
 public static void main
 {
 	add main()
