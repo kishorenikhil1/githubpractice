@@ -4,7 +4,11 @@ void deposite()
 	amount=deposite+total
 	sop=("your deposite amount")
 }
-
+class withdraw
+{
+ amount=deposit-withdraw
+	 sop=("you amount")
+}
 
 
 
