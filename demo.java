@@ -1,3 +1,11 @@
+class code-C
+{
+	:::::::code-c::::::
+	:::::::code-c::::::
+	:::::::code-c::::::
+	:::::::code-c::::::
+	:::::::code-c::::::
+}
 class code-B
 {
 	:::::::code-B:::::::
