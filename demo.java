@@ -1,3 +1,28 @@
+void Branch-code1()
+{
+	printf("branch code-1")
+	printf("branch code-1")
+	printf("branch code-1")
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 void branch-code2()
 {
  printf ("branch code-b")
